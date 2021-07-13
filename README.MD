@@ -1,9 +1,10 @@
-<h1 align='center'>
+<h2 align='center'>
   Hello, I'm Tsanko 
-</h1>
+</h2>
 
 <h4 align='center'>
-  I'm a Software Engineering student from Bulgaria. I am interested in C# Web Development while I'm also currently interested in Game Development using Unity.
+I'm a Software Engineering student from Bulgaria. 
+I am interested in C# Web Development while I'm also currently interested in Game Development using Unity.
 </h4>
 
 <p align='center'>
