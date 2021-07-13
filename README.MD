@@ -20,5 +20,3 @@ I am interested in C# Web Development while I'm also currently interested in Uni
         <a href="https://steamcommunity.com/profiles/76561198059982957/"><img src="https://camo.githubusercontent.com/2e51cfa2846afbace22819d8c7dd9afad50d0a414ad1d7d30e811952706f548d/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f737465616d2e737667" width="50" height="50"/> 
           <a href="https://open.spotify.com/user/21xwsr5cso4ooumcm34jh2mui?si=0e40e0e840b4457d"><img src="https://camo.githubusercontent.com/15d4e1b8bf3ed25b7131cc93f248f86cc42deaf9e19fdb61aa1ba3b46e0400a5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f73706f746966792e737667" width="50" height="50"/> 
 </p>
-
-![](https://komarev.com/ghpvc/?username=tsankotsanev)
