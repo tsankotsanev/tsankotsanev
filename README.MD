@@ -8,7 +8,7 @@ I am interested in C# Web Development while I'm also currently interested in Uni
 </h4>
 
 <p align='center'>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tsankotsanev&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Tsanko's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=tsankotsanev&theme=dark&show_icons=true" alt="Tsanko's Github Stats">
 </p>
 
 <p align='center'>
