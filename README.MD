@@ -4,7 +4,7 @@
 
 <h4 align='center'>
 I'm a Software Engineering student from Bulgaria. 
-I am interested in C# Web Development while I'm also currently interested in Game Development using Unity.
+I am interested in C# Web Development while I'm also currently interested in Unity Game Engine.
 </h4>
 
 <p align='center'>
