@@ -19,8 +19,7 @@ I am interested in C# Web Development while I'm also currently interested in Uni
 
 <h4 align='left'>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=tsankotsanev&theme=nord&show_icons=true" alt="Tsanko's Github Stats">
-</p>
-          
+</p>         
 <h4 align='right'>  
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsankotsanev&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
