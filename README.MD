@@ -17,12 +17,14 @@ I'm a Software Engineering student from Bulgaria.
 I am interested in C# Web Development while I'm also currently interested in Unity Game Engine.
 </h4>
 
-<h4 align='right'>  
+<h4 align='center'>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=tsankotsanev&theme=nord&show_icons=true" alt="Tsanko's Github Stats">
+</p>     
+          
+<h4 align='center'>  
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsankotsanev&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 </p>          
           
-<h4 align='left'>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=tsankotsanev&theme=nord&show_icons=true" alt="Tsanko's Github Stats">
-</p>         
+    
 
