@@ -14,12 +14,10 @@
 
 <h4 align='center'>
 I'm a Software Engineering student from Bulgaria. 
-</h4>
-          
-<h4 align='center'>
+  
 I am interested in C# Web Development.
 </h4>
-
+         
 <h4 align='center'>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=tsankotsanev&theme=nord&show_icons=true" alt="Tsanko's Github Stats">
 </p>     
