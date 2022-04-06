@@ -13,7 +13,9 @@
 
 <h4 align='center'>
 I'm a Software Engineering student from Bulgaria. 
+
 Currently working as Information Services Coordinator at A Data Pro.  
+
 I am interested in C# Web Development.
 </h4>
          
