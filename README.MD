@@ -14,9 +14,9 @@
 <h4 align='center'>
 I'm a Software Engineering student from Bulgaria. 
 
-I am working as Information Services Coordinator at A Data Pro. 
+I'm working as Information Services Coordinator at A Data Pro. 
 
-I am currently learning C# Web Development.
+I'm currently learning C# Web Development.
 </h4>
           
          
