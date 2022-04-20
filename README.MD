@@ -9,7 +9,9 @@
     <a href="https://twitch.tv/whitez9"><img src="https://cdn0.iconfinder.com/data/icons/social-network-7/50/16-512.png" width="25" height="25"/> 
     <a href="https://discordapp.com/users/239142055266353152/"><img src="https://www.freeiconspng.com/thumbs/discord-icon/discord-chat-for-gamers-social-networking-icon-9.png" width="25" height="25"/>
     <a href="https://steamcommunity.com/profiles/76561198059982957/"><img src="https://camo.githubusercontent.com/2e51cfa2846afbace22819d8c7dd9afad50d0a414ad1d7d30e811952706f548d/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f737465616d2e737667" width="25" height="25"/> 
-
+      </p>
+  
+      
 <h4 align='center'>
 I'm a Software Engineering student from Bulgaria. 
 
