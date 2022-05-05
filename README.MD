@@ -20,8 +20,13 @@ Working as Information Services Coordinator at A Data Pro.
           
          
 <h4 align='center'>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tsankotsanev&theme=nord&show_icons=true" alt="Tsanko's Github Stats">
-</p>     
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=tsankotsanev&theme=github_dark&show_icons=true" alt="Tsanko's Github Stats">
+</p>   
+           
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsankotsanev&layout=compact&theme=github_dark)
+
+
+
         
           
     
