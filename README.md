@@ -12,12 +12,6 @@ Hello, I'm Tsanko
 </p>
       
 <h4 align='center'>
-I'm a Software Engineering student currently learning C# Web Development.
-  
-Working as Information Services Coordinator at A Data Pro. 
-</h4>
-      
-<h4 align='center'>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=tsankotsanev&theme=github_dark&show_icons=true" alt="Tsanko's Github Stats">
 </p>   
            
