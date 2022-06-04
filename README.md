@@ -9,7 +9,6 @@
 
 ##
 
-- ⌨️ I'm working on improving my coding knowledge
 - 🌱 I’m currently learning C#, JavaScript and Python
 - 🥅 2022 Goals: Graduating university
 - ⚡ Fun fact: I love writing code and playing video games
