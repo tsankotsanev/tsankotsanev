@@ -1,25 +1,24 @@
-<h2 align='center'>
-Hello, I'm Tsanko 
-</h2>
+## Hi there, I'm Tsanko <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px" height="24px">
 
-<p align='center'>
-    <a href="https://www.facebook.com/profile.php?id=1462063293"><img src="https://camo.githubusercontent.com/8f245234577766478eaf3ee72b0615e99bb9ef3eaa56e1c37f75692811181d5c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f66616365626f6f6b2e737667" width="25" height="25"/>  
-    <a href="https://www.linkedin.com/in/tsankotsanev/"><img src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" width="25" height="25"/> 
-    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=tsanko.tsanev.business@gmail.com&su&shva=1"><img src="https://www.freeiconspng.com/thumbs/gmail-icon/gmail-logo-icon-2.png" width="25" height="25"/>  
-    <a href="https://twitch.tv/whitez9"><img src="https://cdn0.iconfinder.com/data/icons/social-network-7/50/16-512.png" width="25" height="25"/> 
-    <a href="https://discordapp.com/users/239142055266353152/"><img src="https://www.freeiconspng.com/thumbs/discord-icon/discord-chat-for-gamers-social-networking-icon-9.png" width="25" height="25"/>
-    <a href="https://steamcommunity.com/profiles/76561198059982957/"><img src="https://camo.githubusercontent.com/2e51cfa2846afbace22819d8c7dd9afad50d0a414ad1d7d30e811952706f548d/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f737465616d2e737667" width="25" height="25"/> 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=tsankotsanev)
+[![Years Badge](https://badges.pufler.dev/years/tsankotsanev)](https://badges.pufler.dev)
+
+[![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=1462063293)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tsankotsanev/) 
+[![GitHub](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=Github&logoColor=white)](https://github.com/tsankotsanev)
+
+##
+
+- ⌨️ I'm working on improving my coding knowledge
+- 🌱 I’m currently learning C#, JavaScript and Python
+- 🥅 2022 Goals: Graduating university
+- ⚡ Fun fact: I love writing code and playing video games
+- 💻 I love building cool stuff with code
+- 💬 Ask me about anything!
+- 📮 How to reach me: tsanko.tsanev.business@gmail.com
+
+<p>
+  <img height="180em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tsankotsanev&show_icons=true&bg_color=00000000&hide_border=true&text_color=3498db&&count_private=true&include_all_commits=true" />
+
+  <img height="180em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsankotsanev&langs_count=8&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db&&count_private=true&include_all_commits=true" />
 </p>
-      
-<h4 align='center'>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tsankotsanev&theme=github_dark&show_icons=true" alt="Tsanko's Github Stats">
-</p>   
-           
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsankotsanev&layout=compact&theme=github_dark)
-
-
-
-        
-          
-    
-
