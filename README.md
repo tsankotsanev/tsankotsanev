@@ -9,12 +9,12 @@
 
 ##
 
-- ⌨️ I'm working on improving my coding knowledge
-- 🌱 I’m currently learning C#, JavaScript and Python
-- 🥅 2022 Goals: Graduating university
+- ⌨️ I'm currently working with: C#, JavaScript and Python
+- 🌱 I'm working towards: improving my coding knowledge
+- 🥅 2022 Goals: Contributing to Open Source projects
 - ⚡ Fun fact: I love writing code and playing video games
-- 💻 I love building cool stuff with code
-- 💬 Ask me about anything!
+- 💻 I love: building cool stuff with code
+- 💬 Ask me: about anything. I'd be happy to help!
 - 📮 How to reach me: tsanko.tsanev.business@gmail.com
 
 
