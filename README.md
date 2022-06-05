@@ -9,13 +9,13 @@
 
 ##
 
-- ⌨️ I'm currently working with: C#, JavaScript and Python
-- 🌱 I'm working towards: improving my coding knowledge
-- 🥅 2022 Goals: Contributing to Open Source projects
-- ⚡ Fun fact: I love writing code and playing video games
-- 💻 I love: building cool stuff with code
+- 💻 I've experience with: C#, JavaScript and Python
+- 🌱 I'm working towards: expanding my coding knowledge and skills
+- 🥅 2022 Goals: Trying Unity Game Engine
+- ⚡ Fun fact: I love writing code and playing video games 
 - 💬 Ask me: about anything. I'd be happy to help!
 - 📮 How to reach me: tsanko.tsanev.business@gmail.com
 
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=tsankotsanev&show_icons=true&bg_color=00000000&hide_border=true&text_color=3498db&&count_private=true&include_all_commits=true) ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tsankotsanev&langs_count=8&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db&&count_private=true&include_all_commits=true)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=tsankotsanev&show_icons=true&bg_color=00000000&hide_border=true&text_color=3498db&&count_private=true&include_all_commits=true) 
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tsankotsanev&langs_count=8&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db&&count_private=true&include_all_commits=true)
