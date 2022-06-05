@@ -17,4 +17,5 @@
 - 📮 How to reach me: tsanko.tsanev.business@gmail.com
 
 
-<img src="https://user-images.githubusercontent.com/76694544/172030158-7b522fc9-cb2d-4072-b355-2d94a7e62909.png" width="45%"></img><img src="https://user-images.githubusercontent.com/76694544/172030161-5afc4a55-4b07-4e94-b91b-962b4207a5d9.png" width="45%"></img>
+![image](https://github-readme-stats.vercel.app/api?username=tsankotsanev&show_icons=true&bg_color=00000000&hide_border=true&text_color=3498db&&count_private=true&include_all_commits=true)
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=tsankotsanev&langs_count=8&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db&&count_private=true&include_all_commits=true)
