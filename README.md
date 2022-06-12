@@ -1,4 +1,14 @@
-## Hi there, I'm Tsanko <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px" height="24px">
+<h1 align='center'>
+  Hello there 👋 I'm Tsanko
+</h1>
+
+<h3 align='center'>
+  Student at <a href="https://softuni.bg/">Software University</a> 
+</h3>
+<h3 align='center'>
+  Working as Information Services Coordinator at <a href="https://www.aiidatapro.com/">A Data Pro</a> 
+</h3>
+
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=tsankotsanev)
 [![Years Badge](https://badges.pufler.dev/years/tsankotsanev)](https://badges.pufler.dev)
