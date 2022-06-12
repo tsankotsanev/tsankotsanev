@@ -1,15 +1,6 @@
-<h1 align='center'>
-  Hello there 👋 I'm Tsanko
-</h1>
-
-<h3 align='center'>
-  Student at <a href="https://softuni.bg/">Software University</a> 
-</h3>
-<h3 align='center'>
-  Working as Information Services Coordinator at <a href="https://www.aiidatapro.com/">A Data Pro</a> 
-</h3>
-
-
+## Hello there 👋 I'm Tsanko
+###  Student <a href="https://softuni.bg/">@Software University</a> 
+### Information Services Coordinator <a href="https://www.aiidatapro.com/">@A Data Pro</a> 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=tsankotsanev)
 [![Years Badge](https://badges.pufler.dev/years/tsankotsanev)](https://badges.pufler.dev)
 
