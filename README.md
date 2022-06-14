@@ -13,7 +13,7 @@
 - 🌱 I'm working towards: expanding my coding knowledge and skills
 - 🥅 2022 Goals: Trying Unity Game Engine
 - ⚡ Fun fact: I love writing code and playing video games 
-- 💬 Ask me: about anything. I'd be happy to help!
+- 💬 Ask me about: anything. I'd be happy to help!
 - 📮 How to reach me: tsanko.tsanev.business@gmail.com
 
 
