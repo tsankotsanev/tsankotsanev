@@ -1,6 +1,6 @@
 ## Hello there 👋 I'm Tsanko
 ###  Student <a href="https://softuni.bg/">@Software University</a> 
-### Information Services Coordinator <a href="https://www.aiidatapro.com/">@ADataPro</a> 
+### Software Developer <a href="https://www.aiidatapro.com/">@ADataPro</a> 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=tsankotsanev)
 [![Years Badge](https://badges.pufler.dev/years/tsankotsanev)](https://badges.pufler.dev)
 
