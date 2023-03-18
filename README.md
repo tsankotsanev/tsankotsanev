@@ -8,7 +8,7 @@
 
 - 🖥️ Very good knowledge in C#
 - 💻 Good knowledge in Python and SQL
-- ⌨️ Some knowledge in JavaScript and Lua
+- ⌨️ Some knowledge in Bash and Lua
 - 🌱 I'm working towards expanding my coding knowledge and skills
 - ⚡ Fun fact about me - I like playing video games 
 - 💬 Ask me about anything. I'd be happy to help!
