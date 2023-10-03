@@ -1,4 +1,4 @@
-## Hello there 👋 I'm Tsanko
+## Hello there, I'm Tsanko
 ### Software Developer <a href="https://www.aiidatapro.com/">@ADataPro</a> 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tsankotsanev/)
